@@ -1,5 +1,9 @@
 Branch Dev
 
+<<<<<<< HEAD
 Add Linha 1
 
 dfgsdfgjdkfjshdfkjgsd
+=======
+Add Linha 1
+>>>>>>> fa522eca7ce08a8332fa91925f14eabf28a87f3d
